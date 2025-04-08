@@ -66,7 +66,13 @@ And this is just the beginning... 🌎✨
 </p>
 
 ---
+---
 
+## 🖥️ Most used programming languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-melau-eddy&layout=compact&theme=dark&border_radius=10)
+
+---
 ## 📫 Contact Me
 
 - 📧 Email: [your.email@example.com](mailto:your.email@example.com)
