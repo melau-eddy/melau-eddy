@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Melau-Eddy
 
-I'm a passionate developer specializing in **Mobile App Development**, **Web Development**, and **Machine Learning**.  
+A 20 year old aspiring Backend developer and an AI Enthusiast with an experience of 2+ years from Nairobi Kenya. 
 I love building scalable applications and learning new technologies every day.
 
 ---
