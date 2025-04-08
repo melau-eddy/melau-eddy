@@ -77,4 +77,12 @@ Whether it's designing seamless user experiences, optimizing databases, or train
 
 ---
 
+
+Thank you for visiting my profile! Feel free to explore my repositories and show some love by hitting the star 
+⭐ button on my repositories.
+
+You can reach out if you'd like to collaborate or have any questions.
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melau-eddy&label=Profile%20views&color=0e75b6&style=flat" alt="melau-eddy" /> </p>
