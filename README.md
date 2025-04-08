@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi there, I'm [Your Name]!
 
-<!--
-**melau-eddy/melau-eddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer specializing in **Mobile App Development**, **Web Development**, and **Machine Learning**.  
+I love building scalable applications and learning new technologies every day.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tech Stack
+
+| Skills                  | Tech Stack                                                                                          | Info                                                   |
+|--------------------------|----------------------------------------------------------------------------------------------------|--------------------------------------------------------|
+| **Main**                 | ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | Dart, Python |
+| **Front-end**            | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white) | Bootstrap CSS, HTML, CSS, HTMX, JavaScript, Vite, Vue.js |
+| **Back-end**             | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) | Django, Django REST framework, FastAPI, Postman |
+| **Database**             | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) | PostgreSQL, Firebase, SQLite |
+| **Cloud & Hosting**      | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black) | AWS, Digital Ocean, Heroku, Render |
+| **Mobile App Development** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) | Flutter |
+| **Version Control**      | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) | Git, GitHub |
+| **Containers, CI & CD**  | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white) | Docker, GitHub Actions |
+| **Machine Learning**     | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white) | Jupyter Notebook, NumPy, OpenCV, Pandas, Scikit-learn |
+| **Amateur**              | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) | C, C++ |
+
+---
+
+## 🚀 Projects
+
+- [Project 1 Name](https://github.com/yourusername/project1) - Short description.
+- [Project 2 Name](https://github.com/yourusername/project2) - Short description.
+- [Project 3 Name](https://github.com/yourusername/project3) - Short description.
+
+---
+
+## 📫 Contact Me
+
+- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [your-linkedin](https://linkedin.com/in/yourlinkedin)
+- Portfolio: [your-portfolio.com](https://your-portfolio.com)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+</p>
+
