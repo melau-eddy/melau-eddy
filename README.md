@@ -12,6 +12,29 @@ Along the way, I discovered the transformative power of **Artificial Intelligenc
 Today, I specialize in crafting **beautiful front-ends**, **robust back-ends**, and **intelligent solutions** with machine learning models.  
 Whether it's designing seamless user experiences, optimizing databases, or training neural networks, I believe that **technology should empower people**.
 
+Currently, I’m diving into the exciting world of Artificial Intelligence and Machine Learning, aiming to build intelligent systems that solve real-world problems. I’m also enhancing my skills in FastAPI for building robust APIs and Tailwind CSS for modern, responsive web design.
+
+### 🔥 What Drives Me
+
+- 💡 The thrill of solving complex problems.
+- 🚀 The excitement of seeing an idea come to life.
+- 🌱 The belief that growth never stops — every day is a new chance to become better.
+
+---
+### 🌟 My Mission
+
+To **build meaningful technology** that not only works, but **inspires, empowers, and transforms lives**.
+
+I don't just write code.  
+I create experiences.  
+I solve problems.  
+I chase dreams.  
+
+And this is just the beginning... 🌎✨
+
+---
+
+**Let's build the future together! 🚀**
 
 ---
 
