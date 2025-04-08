@@ -78,8 +78,7 @@ Whether it's designing seamless user experiences, optimizing databases, or train
 ---
 
 
-Thank you for visiting my profile! Feel free to explore my repositories and show some love by hitting the star 
-
+Thank you for visiting my profile! Feel free to explore my repositories and show some love by hitting the star   
 ⭐ button on my repositories.
 
 You can reach out if you'd like to collaborate or have any questions.
