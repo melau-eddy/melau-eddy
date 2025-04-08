@@ -3,7 +3,15 @@
 A 20 year old aspiring Backend developer and an AI Enthusiast with an experience of 2+ years from Nairobi Kenya.
 
 
-I love building scalable applications and learning new technologies every day.
+My story began with a simple curiosity: **"How does the internet work?"** 🌍  
+What started as countless hours of breaking websites and fixing them again turned into a deep passion for **building scalable applications** and **intelligent systems** that solve real-world problems.
+
+From my first "Hello World" in HTML to deploying full-stack apps in the cloud ☁️, every project, bug, and breakthrough has shaped me into the developer I am today.  
+Along the way, I discovered the transformative power of **Artificial Intelligence** — and it opened an entirely new world of possibilities. 🤖✨
+
+Today, I specialize in crafting **beautiful front-ends**, **robust back-ends**, and **intelligent solutions** with machine learning models.  
+Whether it's designing seamless user experiences, optimizing databases, or training neural networks, I believe that **technology should empower people**.
+
 
 ---
 
