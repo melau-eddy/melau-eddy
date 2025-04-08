@@ -1,3 +1,6 @@
+![My Coding Setup](bgwall.webp)
+
+
 # 👋 Hi there, I'm Melau-Eddy
 
 A 20 year old aspiring Backend developer and an AI Enthusiast with an experience of 2+ years from Nairobi Kenya.
