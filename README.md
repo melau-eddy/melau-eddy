@@ -55,11 +55,15 @@ And this is just the beginning... 🌎✨
 
 ---
 
-## 🚀 Projects
+## 🛠️ Tools
 
-- [Project 1 Name](https://github.com/yourusername/project1) – Short description.
-- [Project 2 Name](https://github.com/yourusername/project2) – Short description.
-- [Project 3 Name](https://github.com/yourusername/project3) – Short description.
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="Ubuntu" />
+</p>
 
 ---
 
