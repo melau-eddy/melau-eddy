@@ -83,7 +83,7 @@ And this is just the beginning... 🌎✨
 
 - 📧 Email: [your.email@example.com](mailto:your.email@example.com)
 - 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/yourlinkedin)
-- 🌐 Portfolio: [your-portfolio.com](https://myportfoliowebsite-swart.vercel.app/)
+- 🖥️  See my portfolio at: [Melau-Eddy portfolio](https://myportfoliowebsite-swart.vercel.app/)
 
 ---
 
