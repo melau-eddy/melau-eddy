@@ -69,6 +69,8 @@ And this is just the beginning... 🌎✨
 ## 🖥️ Most used programming languages
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=melau-eddy&show_icons=true&locale=en&layout=compact" alt="melau-eddy" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melau-eddy&" alt="melau-eddy" /></p>
+
 
 ## 📫 Contact Me
 
