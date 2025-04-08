@@ -81,8 +81,8 @@ And this is just the beginning... 🌎✨
 
 ## 📫 Contact Me
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/yourlinkedin)
+- 📧 Email: [your.email@example.com](melaueddy@gmail.com)
+- 💼 LinkedIn: [your-linkedin](https://www.linkedin.com/in/melau-eddy/)
 - 🖥️  See my portfolio at: [Melau-Eddy portfolio](https://myportfoliowebsite-swart.vercel.app/)
 
 ---
