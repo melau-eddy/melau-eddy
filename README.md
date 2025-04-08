@@ -34,7 +34,10 @@ And this is just the beginning... 🌎✨
 
 ---
 
+
 **Let's build the future together! 🚀**
+
+
 
 ---
 
@@ -53,6 +56,8 @@ And this is just the beginning... 🌎✨
 | **Machine Learning**         | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) &nbsp;&nbsp; ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) &nbsp;&nbsp; ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white) &nbsp;&nbsp; ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) &nbsp;&nbsp; ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white) | Jupyter, NumPy, OpenCV, Pandas, Scikit-learn               |
 | **Amateur**                  | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) &nbsp;&nbsp; ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) | C, C++                                                     |
 
+
+
 ---
 
 ## 🛠️ Tools
@@ -66,6 +71,8 @@ And this is just the beginning... 🌎✨
 </p>
 
 ---
+
+
 ## 🖥️ Most used programming languages
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=melau-eddy&show_icons=true&locale=en&layout=compact" alt="melau-eddy" /></p>
 
