@@ -2,6 +2,14 @@
 
 
   # 👋 Hi there, I'm Melau-Eddy
+  <h1 align="center">
+  Hello! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> My name is Melau-Eddy 
+</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Python+developer;Fullstack+web+developer;Mobile+app+developer+-+Flutter;AI+and+machine+learning+enthusiast;Oh%2C+I+play+chess+too!+%F0%9F%98%84" alt="Typing SVG" /></a>
+</p>
+
 
 A 20 year old aspiring Backend developer and an AI Enthusiast with an experience of 2+ years from Nairobi Kenya.
 
