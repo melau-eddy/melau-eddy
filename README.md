@@ -1,7 +1,7 @@
 ![My Coding Setup](bgwall.webp)
 
   <h1 align="center">
-  Hello! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> My name is Melau-Eddy 
+  Hello! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> My name is melau-eddy 
 </h1>
 
 <p align="center">
