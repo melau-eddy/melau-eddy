@@ -92,4 +92,4 @@ You can reach out if you'd like to collaborate or have any questions.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melau-eddy&label=Profile%20views&color=0e75b6&style=flat" alt="melau-eddy" /> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dedan-tech&show_icons=true&locale=en" alt="dedan-tech" /></p>
+
